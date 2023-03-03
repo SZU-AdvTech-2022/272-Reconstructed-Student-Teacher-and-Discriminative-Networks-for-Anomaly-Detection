@@ -1,0 +1,6 @@
+@INPROCEEDINGS{9981509,
+  author={Yamada, Shinji and Kamiya, Satoshi and Hotta, Kazuhiro},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection}, 
+  year={2022},
+  pages={2725-2732}}
